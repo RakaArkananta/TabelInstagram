@@ -2,6 +2,7 @@
     font-family: Calibri, sans-serif;
     font-weight: 900;
     border-radius: 2%;
+    height: 100%
 }
 #head{
     background-color: lightgray;
@@ -17,7 +18,6 @@
     width: 100%;
     border-radius: 7%;
     cursor: pointer;
-    
 }
 tr td a .tombolig:hover {
     background-color: grey;
@@ -26,5 +26,4 @@ tr td a .tombolig:hover {
 .container{
     display: flex;
     justify-content: space-evenly;
-
 }
