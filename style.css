@@ -23,6 +23,12 @@
 .tombolig:hover {
     background-color: grey;
     color: white;
+    border-color: darkgray;
+    border-radius: 7%;
+}
+.tombolig:active {
+    background-color: black;
+    color: white;
     border-color: black;
     border-radius: 7%;
 }
